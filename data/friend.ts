@@ -18,6 +18,13 @@ export const Friends: Friend[] = [
     avatar: require('./avatar/tom.png'),
   },
   {
+    title: 'Ethan',
+    description: "Don't stay awake for too long",
+    website: 'https://hanlife02.com.cn/',
+    avatar: require('./avatar/ethan.png'),
+    // 你好，我是一名业余但喜欢编程的大二学生，通过萌备案信息访问到你的网站，想申请贵站友链，交个朋友~~
+  }
+  {
     title: '峰华前端工程师',
     description: '本站部分源码来自此大佬',
     website: 'https://zxuqian.cn',
